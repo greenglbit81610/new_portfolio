@@ -22,7 +22,7 @@ export const sendEmailAction = async ({ email, message }: TFormSchema) => {
     };
   } catch {
     return {
-      error: `Something went wrong!`,
+      error: `please againdfsdfdsfjsjkdfhlsdkfj`,
     };
   }
 };
